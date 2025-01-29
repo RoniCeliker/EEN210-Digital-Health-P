@@ -4,7 +4,7 @@ from scipy.signal import savgol_filter
 
 # Filväg till din CSV-fil
 file_path = 'fall_data_20250127_01.csv'
-
+#hejhej
 # Läs in data
 df = pd.read_csv(file_path)
 
